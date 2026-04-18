@@ -1,0 +1,3 @@
+cluster,n_entities,avg_delay_rate,avg_cancel_rate,avg_severity_min,total_flights,avg_carrier_share,avg_weather_share,avg_late_aircraft_share
+0,115,0.1621,0.0277,90.217,1387048.0,0.5449,0.1717,0.2087
+1,309,0.1847,0.0261,66.6252,39523205.0,0.3629,0.0861,0.3951
